@@ -1,0 +1,17 @@
+C:\Users\NK 2314\Desktop\lab1\lab1\bin\Debug\net8.0-windows\lab1.exe
+C:\Users\NK 2314\Desktop\lab1\lab1\bin\Debug\net8.0-windows\lab1.deps.json
+C:\Users\NK 2314\Desktop\lab1\lab1\bin\Debug\net8.0-windows\lab1.runtimeconfig.json
+C:\Users\NK 2314\Desktop\lab1\lab1\bin\Debug\net8.0-windows\lab1.dll
+C:\Users\NK 2314\Desktop\lab1\lab1\bin\Debug\net8.0-windows\lab1.pdb
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\lab1.Form1.resources
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.GenerateResource.cache
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfoInputs.cache
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\lab1.AssemblyInfo.cs
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\lab1.csproj.CoreCompileInputs.cache
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\lab1.dll
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\refint\lab1.dll
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\lab1.pdb
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\lab1.genruntimeconfig.cache
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\ref\lab1.dll
+C:\Users\NK 2314\Desktop\lab1\lab1\obj\Debug\net8.0-windows\lab1.Properties.Resources.resources
